@@ -9,4 +9,3 @@
 
 ## 🐍 Contribution Snake  
 ![Snake animation](https://github.com/Prosonjit2006/Prosonjit2006/blob/output/snake.svg)
-
