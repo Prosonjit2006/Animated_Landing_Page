@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif" width="100%" height="auto">
+
 # 👋 Hey, I’m Prosonjit
 
 🚀 Web Developer | 💻 Tech Explorer | 🌱 Learner 
@@ -7,5 +9,3 @@
 ## 🔥 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prosonjit2006&show_icons=true&theme=radical)  
 
-## 🐍 Contribution Snake  
-![Snake animation](https://github.com/Prosonjit2006/Prosonjit2006/blob/output/snake.svg)
