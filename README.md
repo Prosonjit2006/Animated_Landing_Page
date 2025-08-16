@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif" width="100%" height="auto">
+<img src="https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif" width="100%" height="auto"> 
 
 # 👋 Hey, I’m Prosonjit
 
